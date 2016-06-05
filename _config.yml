@@ -1,7 +1,7 @@
 # Site settings
 title: the ashes of time
 header-img: "img/grass.jpg"
-tagline: "吉光片羽"  
+tagline: ""  
 description: "在寻找的路上 遇见未知的自己"  
 baseurl: ""
 url: "http://maymixmay.github.io"  
@@ -11,10 +11,10 @@ url: "http://maymixmay.github.io"
 owner: 
   name: "maymixmay"
   email: maymars2000@163.com
-  bio: "明朝即長路 惜取此時心"
+  bio: ""
 
 # Data
-gavatar: http://dreamofbook.qiniudn.com/Az..png
+gavatar: 
 favicon: img/faviconmay.ico
 
 douban_username: 
@@ -66,7 +66,7 @@ comments :
       short_name : maymixmay
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-66863061-1
+google_analytics: 
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
