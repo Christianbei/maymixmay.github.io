@@ -11,6 +11,6 @@ header-img: "img/xingkong.jpg"
 ——maymixmay
 
 
->Don't wait till tomorrow what you can do today.
+>How you live affects how long you live.
 
 
