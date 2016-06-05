@@ -1,8 +1,8 @@
 # Site settings
 title: the ashes of time
-header-img: "imgages/mountain.jpg"
+header-img: "img/mountain.jpg"
 tagline: ""  
-description: "在寻找的路上 遇见未知的自己"  
+description: ""  
 baseurl: ""
 url: "http://maymixmay.github.io"  
 #url: "http://localhost:4000"
