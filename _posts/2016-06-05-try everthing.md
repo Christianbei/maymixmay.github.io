@@ -3,7 +3,7 @@ layout: post
 title: 減法
 categories: [blog ]
 tags: [Sparks, ]
-description: 讓荒蕪之地繼續荒蕪。生長的，在此處還有別處，繼續生長。
+description: 不断尝试
 ---
 
 
