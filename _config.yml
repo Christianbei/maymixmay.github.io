@@ -1,16 +1,16 @@
 # Site settings
-title: The ashes of time
+title: Kyubei的人类行为研究所
 header-img: "img/mountain.jpg"
-tagline: "吉光片羽"  
-description: "遇见更好的自己"  
+tagline: "Kyubei的人类行为研究所"  
+description: "真搞不懂你们人类啊"  
 baseurl: ""
-url: "http://maymixmay.github.io"  
+url: "http://christianbei.github.io"  
 #url: "http://localhost:4000"
 
 # About/contact
 owner: 
-  name: "maymixmay"
-  email: maymars2000@163.com
+  name: "Kyubei贝贝"
+  email: athoth@sina.cn
   bio: ""
 
 # Data
