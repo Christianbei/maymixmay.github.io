@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "About"
-description: "遇见更好的自己"
+description: "功能开发中~"
 header-img: "img/xingkong.jpg"
 ---
 
-今日的修行，是为了遇见更好的自己。
+没错，这个页面存在的目的就是为了装饰。
 
 
-——maymixmay
+——Kyubei贝贝
 
 
 >How you live affects how long you live.
