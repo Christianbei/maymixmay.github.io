@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "About"
 description: "功能开发中~"
@@ -9,8 +9,4 @@ header-img: "img/xingkong.jpg"
 
 
 ——Kyubei贝贝
-
-
->How you live affects how long you live.
-
 
