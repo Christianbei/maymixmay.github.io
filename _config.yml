@@ -1,4 +1,4 @@
-# Site settings
+﻿# Site settings
 title: Kyubei的人类行为研究所
 header-img: "img/mountain.jpg"
 tagline: "Kyubei的人类行为研究所"  
@@ -53,7 +53,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "maymixmay"
+      author: "Kyubei贝贝"
       header-img: "img/fantasy.jpg" # We don't want posts without a header image, that whould mean white on white
 
 
