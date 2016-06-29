@@ -11,6 +11,6 @@ header-img: "img/xingkong.jpg"
 ——Kyubei贝贝
 
 
->How you live affects how long you live.
+>你问我为什么会有这种想法？
 
 
