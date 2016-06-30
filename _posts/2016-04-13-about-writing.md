@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 写作的困境：个性vs普遍，如何看待你的探究主题 
 categories: [blog, ]
