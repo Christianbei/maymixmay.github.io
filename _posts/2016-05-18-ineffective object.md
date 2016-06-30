@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 一直在迷茫？可能是因为你设立了无效的人生目标 
 categories: [blog, ]
